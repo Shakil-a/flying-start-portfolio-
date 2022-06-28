@@ -1,10 +1,23 @@
 /* Add your css here */
 
-.avatar {
-  width: 300px;
-}
 
-body{
+h1 { text-align: center;
   color:white;
 }
+
+h2 { text-align: center;
+  color:white}
+
+p {
+  text-align: center;
+  color:white;
+}
+
+ul{
+text-align: center;
+color:white}
+
+
+
+
 
