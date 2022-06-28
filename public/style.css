@@ -2,20 +2,29 @@
 
 
 h1 { text-align: center;
-  color:white;
+  color:blue;
+  text-shadow: 0 2px white, 0 3px #777;
+  margin: 0.5em 0 0.5em 0;
+  font-size: 60px;
+  
 }
 
 h2 { text-align: center;
-  color:white}
+  color:blue;
+  margin: 1em 0 0.5em 0;
+  font-size: 30px;
+}
 
 p {
   text-align: center;
   color:white;
+
 }
 
 ul{
 text-align: center;
-color:white}
+color:white;
+margin:auto;}
 
 
 
