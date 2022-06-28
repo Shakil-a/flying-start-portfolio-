@@ -1,0 +1,14 @@
+{
+  "name": "swe-portfolio-starter",
+  "version": "1.0.0",
+  "description": "A portfolio starter for your flying start",
+  "main": "main.js",
+  "scripts": {
+    "start": "live-server --port=3000 --mount=/:public"
+  },
+  "author": "multiverse",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
